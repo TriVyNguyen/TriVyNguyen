@@ -10,13 +10,13 @@ FPT大学ソフトウェア工学専攻のグエン・チ・ヴィです。<br>
 将来はブリッジSEとして、日本とベトナムをつなぐ仕事を目指しています。日本語を勉強中です。
 </p>
 
-<h3>Tech Stack &middot; 技術スタック</h3>
+<h3>Skills &middot; スキル</h3>
 
 <p>
 <b>Languages:</b> Java &middot; TypeScript &middot; JavaScript &middot; C &middot; SQL<br>
-<b>Frontend:</b> React &middot; Tailwind CSS &middot; JSP<br>
-<b>Backend:</b> Spring Boot &middot; Spring Security &middot; Spring Data JPA &middot; Java Servlet<br>
-<b>Database &amp; Tools:</b> MySQL &middot; Docker &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions
+<b>Frameworks:</b> React &middot; Tailwind CSS &middot; Spring Boot &middot; Java Servlet/JSP<br>
+<b>Tools:</b> Git &middot; Docker &middot; MySQL &middot; Maven &middot; JUnit &middot; GitHub Actions &middot; draw.io<br>
+<b>Domains:</b> Web Development &middot; Requirements Analysis &middot; UML Modeling &middot; Agile/Scrum
 </p>
 
 <p>&#169; 2026 TriVyNguyen &middot; nguyentrivy20012006@gmail.com</p>
