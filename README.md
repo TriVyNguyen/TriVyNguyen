@@ -2,7 +2,7 @@
 
 <p>
 Software Engineering student at <b>FPT University</b>.<br>
-Aspiring <b>Bridge System Engineer (BrSE)</b>, connecting Vietnamese development teams with Japanese clients.
+Aspiring <b>Bridge Software Engineer (BrSE)</b>, connecting Vietnamese development teams with Japanese clients.
 </p>
 
 <p>
